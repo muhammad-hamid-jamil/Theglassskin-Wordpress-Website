@@ -12,7 +12,7 @@ The project focused on improving structure, presentation, and overall website qu
 
 
 ## My Role
-Full Stack Web Developer (WordPress)
+Full Stack Web Developer (WordPress).
 
 ## What I Worked On
 - WordPress website improvements and customization
